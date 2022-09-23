@@ -25,12 +25,9 @@ body {
     font-size: 2vw;
     text-align: center;
 }
-.topnav ul{
-    text-align: center;
-}
+
 /* Style the topnav links */
 .topnav a {
-    float: right;
     display: block;
     color: white;
     font-style: oblique;
