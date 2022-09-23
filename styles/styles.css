@@ -27,6 +27,7 @@ body {
     float: right;
     display: block;
     color: white;
+    font-style: oblique;
     text-align: center;
     padding: 2vw 1vw;
 }
