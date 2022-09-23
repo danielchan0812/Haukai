@@ -34,6 +34,10 @@ body {
     text-align: center;
     padding: 2vw 1vw;
 }
+.topnav a:hover{
+    background: blanchedalmond;
+}
+
 /* Create two equal columns that float next to each other */
 .column {
     float: left;
