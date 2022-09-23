@@ -17,8 +17,10 @@ body {
 /* Style the top navigation bar */
 .topnav {
     overflow: hidden;
-    background-color: black;
+    background-color: rgb(118, 235, 186);
+    font-style: normal;
     font-size: 2vw;
+    text-align: center;
 }
 /* Style the topnav links */
 .topnav a {
