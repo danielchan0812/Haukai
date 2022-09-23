@@ -9,6 +9,7 @@ body {
 /* Style the header */
 .header {
     background-color:rgb(245, 249, 245);
+    font-style: italic;
     font-size: 3vw;
     text-align: center;
     padding: 0.5vw;
