@@ -25,6 +25,9 @@ body {
     font-size: 2vw;
     text-align: center;
 }
+.topnav ul{
+    text-align: center;
+}
 /* Style the topnav links */
 .topnav a {
     float: right;
@@ -37,9 +40,7 @@ body {
 .topnav a:hover{
     background: rgb(104, 132, 27);
 }
-.topnav ul{
-    text-align: center;
-}
+
 
 /* Create two equal columns that float next to each other */
 .column {
