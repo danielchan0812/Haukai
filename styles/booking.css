@@ -46,7 +46,6 @@ body{
 .banner{
     min-height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Bay_of_Islands.jpg") center/cover no-repeat;
-    alt="Bay of Island";
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -63,7 +62,6 @@ body{
 }
 .card-img{
     background: url("Booking_card.jpg") center/cover no-repeat;
-    alt="Dining Table";
     opacity: 0.5;
 }
 .banner h2{
