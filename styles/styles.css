@@ -24,7 +24,7 @@ body {
 }
 /* Style the topnav links */
 .topnav a {
-    float: inline-end;
+    float: none;
     display: block;
     color: white;
     text-align: center;
