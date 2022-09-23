@@ -28,7 +28,7 @@ body {
     display: block;
     color: white;
     text-align: center;
-    padding: 1.5vw 1vw;
+    padding: 1.5vw,1vw;
 }
 /* Create two equal columns that float next to each other */
 .column {
