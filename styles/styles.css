@@ -8,7 +8,7 @@ body {
 }
 /* Background image */
 .box {
-    background-image: url(../Assignment2/Haukai/styles/);
+    background-image: url("./Assignment2/Haukai/styles/Bay_of_Island.jpg");
     padding: 100px;
     margin: 100px;
 }
