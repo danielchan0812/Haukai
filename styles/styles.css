@@ -37,6 +37,9 @@ body {
 .topnav a:hover{
     background: rgb(104, 132, 27);
 }
+.topnav ul{
+    text-align: center;
+}
 
 /* Create two equal columns that float next to each other */
 .column {
