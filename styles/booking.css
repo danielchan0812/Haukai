@@ -3,6 +3,42 @@
     padding: 0;
     margin: 0;
 }
+
+/* Set the size of the body */
+body {
+    width: 98%;
+  }
+  
+  /* Style the header */
+  .header {
+      background-color:rgb(245, 249, 245);
+      font-style: italic;
+      font-size: 3vw;
+      text-align: center;
+      padding: 0.5vw;
+  }
+  /* Style the top navigation bar */
+  .topnav {
+      overflow: hidden;
+      background-color: rgb(134, 132, 137);
+      font-style: normal;
+      font-size: 2vw;
+      text-align: center;
+  }
+  
+  /* Style the topnav links */
+  .topnav a {
+      float: right;
+      display: block;
+      color: white;
+      font-style: oblique;
+      text-align: center;
+      padding: 2vw 1vw;
+  }
+  .topnav a:hover{
+      background: rgb(104, 132, 27);
+  }
+  
 body{
     font-family: "Times New Roman", Times, serif;
 }
