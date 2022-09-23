@@ -28,6 +28,7 @@ body {
 
 /* Style the topnav links */
 .topnav a {
+    float: inline-start;
     display: block;
     color: white;
     font-style: oblique;
