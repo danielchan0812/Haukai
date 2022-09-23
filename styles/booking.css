@@ -41,6 +41,8 @@ body {
 body{
     font-family: "Times New Roman", Times, serif;
 }
+  /* Style the banner */
+
 .banner{
     min-height: 100vh;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("Bay_of_Islands.jpg") center/cover no-repeat;
@@ -51,12 +53,15 @@ body{
     color: #fff;
     padding-bottom: 20px;
 }
+
+  /* Style the booking card */
+
 .card-container{
     display: grid;
-    grid-template-columns: 420px 420px;
+    grid-template-columns: 500px 500px;
 }
 .card-img{
-    background: url("card-img.jpg") center/cover no-repeat;
+    background: url("Booking_card.jpg") center/cover no-repeat;
 }
 .banner h2{
     padding-bottom: 40px;
@@ -70,7 +75,7 @@ body{
     text-align: center;
     color: #000;
     padding: 25px 0 10px 0;
-    font-size: 26px;
+    font-size: 35px;
     font-weight: 500;
 }
 .form-row{
@@ -81,9 +86,9 @@ body{
 form select, form input{
     display: block;
     width: 100%;
-    margin: 15px 12px;
+    margin: 18px 15px;
     padding: 5px;
-    font-size: 15px;
+    font-size: 20px;
     font-family: "Times New Roman", Times, serif;
     outline: none;
     border: none;
@@ -95,7 +100,7 @@ form input[type = text], form input[type = number], form input::placeholder, sel
 }
 form input[type = submit]{
     color: #fff;
-    background: #f2745f;
+    background: #ec2e24;
     padding: 12px 0;
     border-radius: 4px;
     cursor: pointer;
@@ -103,7 +108,7 @@ form input[type = submit]{
 form input[type = submit]:hover{
     opacity: 0.9;
 }
-@media(max-width: 992px){
+@media(max-width: 995px){
     .card-container{
         grid-template-columns: 100%;
         width: 100vw;
