@@ -57,7 +57,8 @@ body {
 .footer {
     background-color: rgb(48, 48, 46);
     text-align: left;
-    padding: 0.5vw;
+    padding: 0.1vw;
     font-size: 1vw;
-    font-style: rgb(234, 245, 245);
+    font-style: italic;
+    color: azure;
 }
